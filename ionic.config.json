@@ -1,0 +1,8 @@
+{
+  "name": "ionic-recipes",
+  "app_id": "171511ba",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
